@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrxw3vcewjzn41jm"
+#EXTM3U 
 #EXTINF:-1 tvg-chno="61" tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="All",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-name="Accuweather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="All",Accuweather
