@@ -1,2 +1,3 @@
 #EXTM3u
-#EXTINF:-1  tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" group-title="All",adult swim https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1  tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" ,adult swim 
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
