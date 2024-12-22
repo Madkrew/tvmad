@@ -1,3 +1,6 @@
 #EXTM3u
-#EXTINF:-1  tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" ,adult swim 
+#EXTINF:-1  tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" ,Adult Swim 
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Noovo(CFJP)MontrealQC(src01).ca" tvg-name="Noovo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15696_dark_360w_270h.png" group-title="All",Noovo
+http://tv14s.xyz:8080/A1Jay5/362586/57501
