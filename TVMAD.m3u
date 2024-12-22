@@ -1,106 +1,106 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrxw3vcewjzn41jm"
 #EXTINF:-1 tvg-chno="61" tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="All",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+http://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-name="Accuweather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="All",Accuweather
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+http://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="CartoonNetwork.us" tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" group-title="All",adult swim
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+http://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="US400002PS" tvg-name="Animation+" tvg-logo="" group-title="All",Animation+
-https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
+http://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://www.bfmtv.com/assets/v5/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg" group-title="All",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+http://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-chno="57" tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton (CBXT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="All",CBC Edmonton (CBXT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="CBCWinnipeg(English).ca" tvg-name="CBC Manitoba (CBWT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png" group-title="All",CBC Manitoba (CBWT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="CBAT(English).ca" tvg-name="CBC NewBrunswick (CBAT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC NewBrunswick (CBAT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="CBCStJohns(English).ca" tvg-name="CBC Newfoundland (CBNT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC Newfoundland (CBNT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News NB" tvg-logo="" group-title="All",CBC News NB
-https://amagi-streams.akamaized.net/hls/live/2113379/cbcnb/master1080p.m3u8
+http://amagi-streams.akamaized.net/hls/live/2113379/cbcnb/master1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News Ottawa" tvg-logo="" group-title="All",CBC News Ottawa
- https://amagi-streams.akamaized.net/hls/live/2113383/cbcottawa/master1080p.m3u8
+ http://amagi-streams.akamaized.net/hls/live/2113383/cbcottawa/master1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News Quebec" tvg-logo="" group-title="All",CBC News Quebec
- https://amagi-streams.akamaized.net/hls/live/2113382/cbcquebec/master1080p.m3u8
+ http://amagi-streams.akamaized.net/hls/live/2113382/cbcquebec/master1080p.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="(no tvg-id)" tvg-name="CBC News Toronto" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/17/98/GEM_-TORONTO-FAST-2880x1620.jpg?crop=1.7777777777777777xh%3Ah%3B*%2C*&downsize=940px%3A*" group-title="All",CBC News Toronto
-https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master1080p.m3u8
+http://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master1080p.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="CFYK(English).ca" tvg-name="CBC North (CFYK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC North (CFYK)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="CBCOttawa(English).ca" tvg-name="CBC Ottawa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC Ottawa
-https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="CBCT(English).ca" tvg-name="CBC PEI (cbct)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC PEI (cbct)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="CBCSaskatchewan(English).ca" tvg-name="CBC Saskatchewan (CBKT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72795_dark_360w_270h.png" group-title="All",CBC Saskatchewan (CBKT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="CBCVancouver(English).ca" tvg-name="CBC Vancouver (CBUT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51981_dark_360w_270h.png" group-title="All",CBC Vancouver (CBUT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+http://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS News " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="All",CBS News 
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="(no tvg-id)" tvg-name="CBS News Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/WBZ-TV_CBS_News_Boston_logo.svg" group-title="All",CBS News Boston
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+http://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="5dc9b8223687ff000936ed79" tvg-name="CBS News New York" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/03/17/82f03e9a-6dd1-46a2-97f5-10126f89d669/social-seofeatured-newyork.jpg" group-title="All",CBS News New York
-https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+http://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 tvg-chno="82" tvg-id="Charge.TV.us" tvg-name="Charge" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="All",Charge
- https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+ http://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-name="Cheddar News " tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s109332_dark_360w_270h.png" group-title="All",Cheddar News 
-https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+http://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-chno="83" tvg-id="f208a84047865b16820dd7110ec2e17f" tvg-name="Circle " tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113430_dark_360w_270h.png" group-title="All",Circle 
-https://circle-samsung.amagi.tv/playlist.m3u8
+http://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="(no tvg-id)" tvg-name="CityNews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeqiCsFIDamwESUQ6h3ktkwE4osmDHld7x0edk-VWrr78LeYdu0l_IdHo4NxwVMxmI_24&usqp=CAU" group-title="All",CityNews
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+http://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="CNN.us" tvg-name="CNN " tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="All",CNN 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="Comet.TV.us" tvg-name="Comet" tvg-logo="https://d17su2xjlj6zyp.cloudfront.net/uploads/2021/04/comet-logo-1536x924.png" group-title="All",Comet
- https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+ http://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="307b3b9ea321539b9688148fc97a8bfd" tvg-name="CrunchyRoll" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Crunchyroll_logo_2012v.png" group-title="All",CrunchyRoll
-https://live1012.delivery.roku.com/40bc2463-2eb8-44e6-ad01-c84d2375ca99/t2-origin/out/v1/live.m3u8
+http://live1012.delivery.roku.com/40bc2463-2eb8-44e6-ad01-c84d2375ca99/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="(no tvg-id)" tvg-name="CTV Gridlock" tvg-logo="" group-title="All",CTV Gridlock
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
+http://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="CTVHome.ca" tvg-name="CTV Home" tvg-logo="" group-title="All",CTV Home
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
+http://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="CTVLaugh.ca" tvg-name="CTV Laugh" tvg-logo="" group-title="All",CTV Laugh
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
+http://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="(no tvg-id)" tvg-name="CTV News" tvg-logo="https://www.ctvnews.ca/content/dam/ctvnews/en/images/logos/CTVNewsLogo_desktop.png" group-title="All",CTV News
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+http://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="DAZN" tvg-name="DAZN (FAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/DAZN_logo.svg" group-title="All",DAZN (FAST)
-https://live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8
+http://live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Draft King Network" tvg-logo="https://dknetwork.draftkings.com/wp-content/uploads/2022/05/DKN-logo-green.svg" group-title="All",Draft King Network
-https://draftkings-sgrewind.streamguys1.com/sgrewind/DraftKings_StreamGuys_SRT/playlist.m3u8
+http://draftkings-sgrewind.streamguys1.com/sgrewind/DraftKings_StreamGuys_SRT/playlist.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-name="Fox Sports (FAST)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="All",Fox Sports (FAST)
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+http://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="USBD700003L7" tvg-name="FOX Weather " tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121307_dark_360w_270h.png" group-title="All",FOX Weather 
-https://247wlive.foxweather.com/stream/index.m3u8
+http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-id="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" tvg-name="Fubo Sports" tvg-logo="https://imgx.fubo.tv/station_logos/fubo-sports23_m.png?fit=fillmax&h=60&w=1920&ch=width&auto=format,compress&dpr=2" group-title="All",Fubo Sports
-https://live1031.delivery.roku.com/474f7f89-88e5-4616-82d4-5872e515ce80/t2-origin/out/v1/live.m3u8
+http://live1031.delivery.roku.com/474f7f89-88e5-4616-82d4-5872e515ce80/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="All",Game Show Network
- https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+ http://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="(no tvg-id)" tvg-name="Global News Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1280px-Global_News.svg.png" group-title="All",Global News Montreal
-https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+http://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationgulli/images/header/logo-gulli_new.png?39dfe5e5e9082870f6c9d86a65cb7ea4b7f671aa" group-title="All",Gulli
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/gulli.m3u8
+http://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/gulli.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="CABA800009T5" tvg-name="Haunt TV" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" group-title="All",Haunt TV
-https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+http://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="All",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+http://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="CBXFTDT(French).ca" tvg-name="ICI Alberta" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",ICI Alberta
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="CBUFT(French).ca" tvg-name="Ici Colombie-Britannique " tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",Ici Colombie-Britannique 
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="CJBR(French).ca" tvg-name="Ici Est-Du-Québec" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",Ici Est-Du-Québec
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+http://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="CBWFT(French).ca" tvg-name="Ici Manitoba" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",Ici Manitoba
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="CBVTDT(French).ca" tvg-name="ICI Québec" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",ICI Québec
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+http://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="CKTM(French).ca" tvg-name="Ici Radio-Canada Mauricie" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",Ici Radio-Canada Mauricie
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="CBOFT(French).ca" tvg-name="Ici Radio-Canada Ottawa" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9-HD.png" group-title="All",Ici Radio-Canada Ottawa
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="ICIRDI(French).ca" tvg-name="ICI RDI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60327_dark_360w_270h.png" group-title="All",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+http://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="CBKFT(French).ca" tvg-name="Ici Saskatchewan" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16371_dark_360w_270h.png" group-title="All",Ici Saskatchewan
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
+http://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 #EXTINF:-1 tvg-chno="141" tvg-id="229d1734e2e7594c9c391591e46617fe" tvg-name="iHeart 2000" tvg-logo="https://i.iheart.com/v3/re/new_assets/98316aea-eed5-49f2-9b56-cc3d22663f8d?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="All",iHeart 2000
 https://iheart-2000s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="c9cabac9090b518990b501555d40158d" tvg-name="iHeart 2010" tvg-logo="https://i.iheart.com/v3/re/new_assets/5de821c8d70effba3ac580f7?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="All",iHeart 2010
