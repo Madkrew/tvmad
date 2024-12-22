@@ -1,21 +1,21 @@
 #EXTM3U 
-#EXTINF:-1 tvg-chno="61" tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="All",ABC News
+#EXTINF:-1 tvg-id="483af83e821059b8b3f0825ae2d43e31" tvg-name="ABC News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="All",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-name="Accuweather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="All",Accuweather
+#EXTINF:-1 tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-name="Accuweather" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91994_dark_360w_270h.png" group-title="All",Accuweather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="CartoonNetwork.us" tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" group-title="All",adult swim
+#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-name="adult swim" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/20/2019/03/27133541/AdultSwim_NavLogo.png" group-title="All",adult swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="US400002PS" tvg-name="Animation+" tvg-logo="" group-title="All",Animation+
+#EXTINF:-1  tvg-id="US400002PS" tvg-name="Animation+" tvg-logo="" group-title="All",Animation+
 https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://www.bfmtv.com/assets/v5/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg" group-title="All",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://www.bfmtv.com/assets/v5/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg" group-title="All",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-chno="57" tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton (CBXT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="All",CBC Edmonton (CBXT)
+#EXTINF:-1  tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton (CBXT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="All",CBC Edmonton (CBXT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="CBCWinnipeg(English).ca" tvg-name="CBC Manitoba (CBWT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png" group-title="All",CBC Manitoba (CBWT)
+#EXTINF:-1  tvg-id="CBCWinnipeg(English).ca" tvg-name="CBC Manitoba (CBWT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png" group-title="All",CBC Manitoba (CBWT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="CBAT(English).ca" tvg-name="CBC NewBrunswick (CBAT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC NewBrunswick (CBAT)
+#EXTINF:-1 tvg-id="CBAT(English).ca" tvg-name="CBC NewBrunswick (CBAT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC NewBrunswick (CBAT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="CBCStJohns(English).ca" tvg-name="CBC Newfoundland (CBNT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC Newfoundland (CBNT)
+#EXTINF:-1 tvg-id="CBCStJohns(English).ca" tvg-name="CBC Newfoundland (CBNT)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="All",CBC Newfoundland (CBNT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC News NB" tvg-logo="" group-title="All",CBC News NB
 https://amagi-streams.akamaized.net/hls/live/2113379/cbcnb/master1080p.m3u8
